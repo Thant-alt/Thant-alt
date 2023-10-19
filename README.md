@@ -1,4 +1,13 @@
-### Hi there 👋
+![Banner](
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZwNjRrY3NuYXVpMDhzbXY0bWxubDlxenNxMXFiMGpnYWxzcXpzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
+### Hi, this is Vivian.
+
+- 🎓 BCIT (Computer Systems Technology, Programming Paradigms Option)
+- 🛠️ Languages: Java, Python, C, HTML/CSS, JavaScript (incl. jQuery), Kotlin, R, OCaml, Rust, Elixir
+- 🔭 I’m currently working on LinliTalk Data Matching Project [LinliTalk](https://www.linlitalk.com/)
+- 📧: vivianrachel940@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vivian55/)
+
 
 <!--
 **Thant-alt/Thant-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
