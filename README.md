@@ -1,6 +1,6 @@
 ![Banner](
 https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZwNjRrY3NuYXVpMDhzbXY0bWxubDlxenNxMXFiMGpnYWxzcXpzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
-### Hi, this is Vivian.
+### Hi👋, this is Vivian!
 
 - 🎓 BCIT (Computer Systems Technology, Programming Paradigms Option)
 - 🛠️ Languages: Java, Python, C, HTML/CSS, JavaScript (incl. jQuery), Kotlin, R, OCaml, Rust, Elixir
